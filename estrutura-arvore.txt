@@ -1,0 +1,7 @@
+AIDP_Workshop
++-- topico_1
+|   +-- labs.md
++-- estrutura-arvore.txt
++-- index.html
++-- manifest.json
+\-- README.md
