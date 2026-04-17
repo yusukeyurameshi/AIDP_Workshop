@@ -1,0 +1,22 @@
+{
+  "workshoptitle": "Oracle AI Data Platform na prática: governança, segurança e performance para seus dados",
+  "help": " ",
+	"tutorials": [
+    {
+      "title": "Estrutura, organização e permissionamento do AI Data Plataform",
+      "filename": "topico_1/labs.md"
+    },
+    {
+      "title": "Catálogo (Tabelas e Volumes)",
+      "filename": "topico_2/labs.md"
+    },
+    {
+      "title": "Workspaces (Trabalhando com Notebooks, Compute e Workflows)",
+      "filename": "topico_3/labs.md"
+    },
+    {
+      "title": "Data Sharing (Compartilhamento de dados)",
+      "filename": "topico_4/labs.md"
+    }
+  ]
+}
